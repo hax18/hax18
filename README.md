@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **hax18/hax18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Welcome to My GitHub Profile! 
