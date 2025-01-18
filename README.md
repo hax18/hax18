@@ -58,4 +58,4 @@ Another brief description. *(e.g., "An AI-powered chatbot that improves customer
 
 _Thank you for stopping by! Don't forget to ⭐ some repos you find interesting!_
 
-![Wave]([https://media.giphy.com/media/l46C8Bg9QsIE9SwGk/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdqYnN3NXlzcmoyNXRxNzZ1cWplZGhlemd4MnI0NTdlYW80aXJxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2rAKTgJIQe1buYU1R5/giphy.gif))
+![Wave](https://i.giphy.com/2rAKTgJIQe1buYU1R5.webp)
