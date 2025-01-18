@@ -1,6 +1,5 @@
-### Hi there 👋
 
-# Welcome to My GitHub Profile! 
+# Hi there 👋
 
 ![Profile Banner](https://via.placeholder.com/1200x300.png?text=Your+Custom+Banner+Here)
 
